@@ -11,4 +11,4 @@ Guías y material práctico.
     
 <p> 🔺 El material aquí ofrecido solo tiene fines didácticos y no pretende ser una revisión exhaustiva de nada. </p>   
    
-<p> <sup>  Quejas a fernandapaz ✨ at ✨ g ✨mail ・ com </sup> </p> 
+<p> <sup>  Quejas a fernandapazcg ✨ at ✨ g ✨mail ・ com </sup> </p> 
