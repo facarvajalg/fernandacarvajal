@@ -6,7 +6,9 @@ Guías y material práctico.
   
 <p> <b> 📌 Boletín de poesía: Guía didáctica para comenzar a analizar poesía. </b> </p> 
   <p> Documento diseñado para el mismo curso a cargo de la profesora Javiera Barrientos. Incluye consejos básicos para comenzar a analizar poesía, con un foco en la poesía del periodo colonial. Revísalo  <a href="https://github.com/facarvajalg/fernandacarvajal/blob/33aa3e1891d2259ade6cdb5e86f2fcb9314b3d2b/Boleti%CC%81n%20de%20poesi%CC%81a.pdf">aquí</a>. </p>
+  
+  
     
-🔺 El material aquí ofrecido solo tiene fines didácticos y no pretende ser una revisión exhaustiva de nada.    
+<p> 🔺 El material aquí ofrecido solo tiene fines didácticos y no pretende ser una revisión exhaustiva de nada. </p>   
    
-<p> <small> Quejas a fernandapaz ✨ at ✨ g ✨mail ・ com </small> </p> 
+<p> <sup>  Quejas a fernandapaz ✨ at ✨ g ✨mail ・ com </sup> </p> 
